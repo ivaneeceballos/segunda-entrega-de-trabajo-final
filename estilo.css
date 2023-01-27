@@ -1,21 +1,4 @@
-/**{
-    margin: 0;
-    padding: 0;
-}
- body {
-    font-family:'Times New Roman', Times, serif ;
-    font-size: larger;
-    font-weight:bold ;
-    font-style: normal;
-    line-height: 1.6 ;
-    text-decoration: none;
-    background-image: url(https://i.pinimg.com/originals/45/11/b6/4511b60646b4aede48f55a2159ce12eb.jpg);
-    background-size: 20%;
-    background-repeat: no-repeat;
-    background-position: center;
-    z-index: ;
-}*/
-/* header */
+
 body {
   color: rgb(241, 247, 247);
   background-color: #2c2c2c;
