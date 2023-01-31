@@ -279,8 +279,8 @@ p {
 }
 
 .img__contactos {
-  height: 316px;
-  width: 460px;
+  height: 40vh;
+  width: 50vh;
 }
 
 /* redes sociales iconos */
@@ -333,6 +333,8 @@ p {
     justify-content: space-between;
   }
 
+  
+
   .main__div {
     display: flex;
     flex-wrap: wrap;
@@ -344,6 +346,7 @@ p {
     border-radius: 10px;
     width: 450px;
     height: 400px;
+    margin: 0 0 30px 0;
   }
 
   /* ubicacion */
